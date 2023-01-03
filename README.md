@@ -21,7 +21,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 ### Links
 
 - Solution URL: [My Solution](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-Vxes6Dj563)
-- Live Site URL: [Live Site Solution](https://larbz.github.io/qr-code-component-main/)
+- Live Site URL: [Live Site Solution](https://larbz.github.io/ping-coming-soon-page-master/)
 
 ## My process
 
