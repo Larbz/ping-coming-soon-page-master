@@ -1,21 +1,36 @@
 # Frontend Mentor product preview card component
 
-This is a solution to the [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+This is a solution to the [Product preview card component](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da).
 
-### Challenge
+# Frontend Mentor - Ping coming soon page solution
 
-Users should be able to:
+This is a solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
+## Table of contents
 
-## Process
+- [Overview](#overview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### Links
+
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-Vxes6Dj563)
+- Live Site URL: [Live Site Solution](https://larbz.github.io/qr-code-component-main/)
+
+## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS Grid
-- CSS Flexbox
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
 - JavaScript for email validation
 
 ## Author
